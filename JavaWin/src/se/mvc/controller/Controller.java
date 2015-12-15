@@ -17,7 +17,7 @@ public class Controller {
     Array7x7 model;
     ViewWindows view;
 //    ViewAndroid view;
-
+//test
     /**
      * A controller to handles communication with the Array7x7 model and diffrent strategies for filling it.
      * @param model the Array7x7 model
