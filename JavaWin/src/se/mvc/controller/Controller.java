@@ -1,9 +1,9 @@
 package se.mvc.controller;
 
-import mah.se.Color.Color;
-import mah.se.mvc.model.Array7x7;
-import mah.se.mvc.view.ViewWindows;
-import mah.se.patterns.strategy.*;
+
+import se.mvc.model.Array7x7;
+import se.mvc.view.ViewWindows;
+import se.patterns.strategy.FillAlgorithm;
 
 import java.util.Random;
 
