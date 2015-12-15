@@ -1,6 +1,7 @@
 package se.patterns.strategy;
 
-import mah.se.mvc.model.Array7x7;
+
+import se.mvc.model.Array7x7;
 
 import java.util.Random;
 

@@ -1,8 +1,9 @@
 package se.patterns.strategy;
 
-import mah.se.Color.Color;
-import mah.se.algorithms.Alphabet;
-import mah.se.mvc.model.Array7x7;
+
+import se.Color.Color;
+import se.algorithms.Alphabet;
+import se.mvc.model.Array7x7;
 
 import java.util.Random;
 

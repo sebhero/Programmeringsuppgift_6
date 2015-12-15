@@ -1,7 +1,7 @@
 package se.patterns.strategy;
 
 
-import mah.se.mvc.model.Array7x7;
+import se.mvc.model.Array7x7;
 
 /**
  * Created by Sebastian Börebäck on 2015-12-14.

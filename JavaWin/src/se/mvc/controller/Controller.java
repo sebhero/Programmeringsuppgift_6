@@ -1,9 +1,10 @@
 package se.mvc.controller;
 
 
+import se.Color.Color;
 import se.mvc.model.Array7x7;
 import se.mvc.view.ViewWindows;
-import se.patterns.strategy.FillAlgorithm;
+import se.patterns.strategy.*;
 
 import java.util.Random;
 

@@ -1,7 +1,7 @@
 package se.mvc.view;
 
-import mah.se.Color.ColorDisplay;
-import mah.se.mvc.controller.Controller;
+import se.Color.ColorDisplay;
+import se.mvc.controller.Controller;
 
 import javax.swing.*;
 import java.awt.*;
